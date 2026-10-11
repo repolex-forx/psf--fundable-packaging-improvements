@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "fundable-packaging-improvements",
+  "versions": [
+    {
+      "commit": "638bbd48f4e3de0b499dda89c54652f66f022b5e",
+      "parsed_at": "2026-10-11T08:02:51.335253+00:00",
+      "filetree": "filetree/638bbd48f4e3de0b499dda89c54652f66f022b5e.nq.gz",
+      "blobs": [
+        "blob/347507b923696266b97cfe79bfa916ee355aef96.nq.gz",
+        "blob/dbd60c4e724bc910719a3d62ac44199d4a6cf721.nq.gz",
+        "blob/45eab6b4e54c0df1c3c62edebfec1ca3258047da.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
