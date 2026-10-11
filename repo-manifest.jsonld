@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/fundable-packaging-improvements/commit/638bbd48f4e3de0b499dda89c54652f66f022b5e",
       "git:hexsha": "638bbd48f4e3de0b499dda89c54652f66f022b5e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:04:19.130185+00:00"
     }
   ]
 }
